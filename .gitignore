@@ -1,0 +1,10 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.venv/
+collected/
+dataset/
+dataset_raw/
+.python-version
+.DS_Store
